@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595021691596",
+    "project_id": "testingaspp-c5c64",
+    "storage_bucket": "testingaspp-c5c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595021691596:android:dbde6d979c0c3afc956069",
+        "android_client_info": {
+          "package_name": "org.patr.tetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595021691596-99fg8f2oo6v673qgangdnvk5gmj4elpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLcvU0DuPbFTzPwLUdwnO79HYfob4dQl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595021691596-99fg8f2oo6v673qgangdnvk5gmj4elpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
