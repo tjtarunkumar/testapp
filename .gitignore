@@ -39,4 +39,8 @@ lib/generated_plugin_registrant.dart
 app.*.symbols
 
 # Obfuscation related
+<<<<<<< HEAD
 app.*.map.json
+=======
+app.*.map.json
+>>>>>>> 1f7ac822ef893da34f565b4e9b3723406c3cbd1f
